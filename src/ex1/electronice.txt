@@ -1,0 +1,4 @@
+HpDeskJet,1234,2000.0,raft,vandut,Imprimanta,300,234p,123,color
+Copiator,321,1000.0,raft,achizitionat,Copiator,300,A3
+Sistem,653,3000.0,raft,expus,Sistem,monitor,123.0,444,linux
+Copiator12,3431,1500.0,raft,vandut,Copiator,200,A4
