@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c33adcb-ac79-42de-af36-3f5d6e7be72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Copiator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Echipament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Imprimanta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Lab4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/Sistem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/echip.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex1/electronice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tema4.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3c33adcb-ac79-42de-af36-3f5d6e7be72d" name="Changes" comment="la8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +47,20 @@
       <option name="presentableId" value="Default" />
       <updated>1729783540159</updated>
     </task>
+    <task id="LOCAL-00001" summary="la8">
+      <option name="closed" value="true" />
+      <created>1736706263698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736706263698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="la8" />
+    <option name="LAST_COMMIT_MESSAGE" value="la8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
